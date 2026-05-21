@@ -87,6 +87,7 @@ BlackHook detects a suspicious lookalike domain and immediately warns the user b
 
 <img width="1920" height="980" alt="image" src="https://github.com/user-attachments/assets/96514611-e621-4763-894c-3fd984cf58e5" />
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/98f6b27e-880f-4803-8c12-96e3a8b0ebb3" />
+<img width="1920" height="981" alt="image" src="https://github.com/user-attachments/assets/252ab00d-7672-4fb1-bc04-39abe97e9cc9" />
 
 ---
 
