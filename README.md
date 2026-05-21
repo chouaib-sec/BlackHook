@@ -1,10 +1,13 @@
-# BlackHook 🪝
+# BlackHook 
+
+<img width="778" height="770" alt="logo" src="https://github.com/user-attachments/assets/43f28e41-0515-4dd3-b82d-ff011a79690b" />
+
 
 **Real-time Anti-Phishing Browser Extension**
 
 ---
 
-## 🔍 Overview
+##  Overview
 
 Phishing attacks are becoming increasingly sophisticated. Modern attackers use techniques such as fullscreen manipulation, lookalike domains, and fake login pages to steal user credentials without being detected.
 
@@ -12,7 +15,7 @@ Phishing attacks are becoming increasingly sophisticated. Modern attackers use t
 
 ---
 
-## 🚀 Features
+##  Features
 
 * 🛑 **Fullscreen Attack Detection**
   Warns users before a website enters fullscreen mode to hide the browser UI.
@@ -31,7 +34,7 @@ Phishing attacks are becoming increasingly sophisticated. Modern attackers use t
 
 ---
 
-## 🛠️ Tech Stack
+##  Tech Stack
 
 * JavaScript (Browser Extension APIs)
 * HTML / CSS
@@ -40,7 +43,7 @@ Phishing attacks are becoming increasingly sophisticated. Modern attackers use t
 
 ---
 
-## ⚙️ Installation
+##  Installation
 
 ```bash
 git clone https://github.com/chouaib-sec/BlackHook.git
@@ -55,7 +58,7 @@ cd blackhook
 
 ---
 
-## ⚙️ How It Works
+##  How It Works
 
 BlackHook continuously monitors:
 
@@ -68,14 +71,14 @@ It applies detection logic and triggers alerts when suspicious behavior is ident
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 Make web security accessible to everyone — even non-technical users.
 **Security shouldn’t be a luxury.**
 
 ---
 
-## 📸 Demo
+##  Demo
 
 ### 🚨 Phishing Detection Example
 
