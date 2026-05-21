@@ -1,7 +1,8 @@
 # BlackHook 
 
-<img width="500" height="500" alt="logo" src="https://github.com/user-attachments/assets/43f28e41-0515-4dd3-b82d-ff011a79690b" />
-
+<img src="https://github.com/user-attachments/assets/43f28e41-0515-4dd3-b82d-ff011a79690b" 
+     width="200" 
+     style="border-radius: 50%;" />
 
 **Real-time Anti-Phishing Browser Extension**
 
